@@ -23,7 +23,6 @@ The code is my solution, please think your code before you compare or copy
 - [ ] Chapter 16: Moderate
 - [ ] Chapter 17: Hard
 
-
 # Reference
 Cracking the coding interview is the book for practice interviewing
-- http:g/a.co/d/fve4czF
+[Buy the book](http:/a.co/d/fve4czF)
