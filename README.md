@@ -1,5 +1,5 @@
 # Cracking The Coding Interview Question 
-The code is my solution, please think your code before you compare or copy 
+The code is made by python, c, java (JS soon), note that: please write your own code before you compare or copy 
 
 ## Datag Structures
 - [ ] Chapter 1: Arrays and Strings
